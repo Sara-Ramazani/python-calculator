@@ -20,21 +20,16 @@ It supports basic math operations like addition, subtraction, multiplication, an
 
 ## How to Run
 1. Make sure you have Python installed. 
-2. Download or clone this repository to your computer. To clone it, run:
-```bash
-git clone https://github.com/Sara-Ramazani/python-calculator.git
-```
-4. Open the project folder in your code editor (like PyCharm or VS Code).
-5. In the terminal, navigate to the project folder if you are not already there:
-```bash
-cd Python-Calculator
-```
-5. Run the program by typing:
+2. Then open a terminal in the project folder.
+3. Run the following command.
+
 ```bash
 python main.py
-```
 
-**Author** 
+---
+
+** Author **
 
 👩‍💻  Sara Ramazani ✨
+
 
