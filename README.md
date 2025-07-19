@@ -22,7 +22,7 @@ It supports basic math operations like addition, subtraction, multiplication, an
 1. Make sure you have Python installed. 
 2. Download or clone this repository to your computer. To clone it, run:
 ```bash
-git clone 
+git clone https://github.com/Sara-Ramazani/python-calculator.git
 ```
 4. Open the project folder in your code editor (like PyCharm or VS Code).
 5. In the terminal, navigate to the project folder if you are not already there:
